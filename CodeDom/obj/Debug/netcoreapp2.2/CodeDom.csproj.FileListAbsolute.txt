@@ -1,0 +1,11 @@
+C:\Users\eser.kuru\source\repos\CodeDom\CodeDom\bin\Debug\netcoreapp2.2\CodeDom.deps.json
+C:\Users\eser.kuru\source\repos\CodeDom\CodeDom\bin\Debug\netcoreapp2.2\CodeDom.runtimeconfig.json
+C:\Users\eser.kuru\source\repos\CodeDom\CodeDom\bin\Debug\netcoreapp2.2\CodeDom.runtimeconfig.dev.json
+C:\Users\eser.kuru\source\repos\CodeDom\CodeDom\bin\Debug\netcoreapp2.2\CodeDom.dll
+C:\Users\eser.kuru\source\repos\CodeDom\CodeDom\obj\Debug\netcoreapp2.2\CodeDom.csproj.CoreCompileInputs.cache
+C:\Users\eser.kuru\source\repos\CodeDom\CodeDom\obj\Debug\netcoreapp2.2\CodeDom.AssemblyInfoInputs.cache
+C:\Users\eser.kuru\source\repos\CodeDom\CodeDom\obj\Debug\netcoreapp2.2\CodeDom.AssemblyInfo.cs
+C:\Users\eser.kuru\source\repos\CodeDom\CodeDom\bin\Debug\netcoreapp2.2\CodeDom.pdb
+C:\Users\eser.kuru\source\repos\CodeDom\CodeDom\obj\Debug\netcoreapp2.2\CodeDom.dll
+C:\Users\eser.kuru\source\repos\CodeDom\CodeDom\obj\Debug\netcoreapp2.2\CodeDom.pdb
+C:\Users\eser.kuru\source\repos\CodeDom\CodeDom\obj\Debug\netcoreapp2.2\CodeDom.csprojAssemblyReference.cache
